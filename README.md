@@ -1,0 +1,1 @@
+Penelitian ini bertujuan untuk mengetahui hubungan antara pola belajar mahasiswa dengan nilai ujian akhir. Data dikumpulkan dari mahasiswa dengan variabel utama yaitu **Jam Belajar per Minggu** dan **Nilai Ujian Akhir**.
